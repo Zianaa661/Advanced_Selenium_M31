@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-08T19:06:31 IST" name="Default suite" finished-at="2025-07-08T19:08:20 IST" duration-ms="108705">
+    <groups>
+    </groups>
+    <test started-at="2025-07-08T19:06:31 IST" name="Default test" finished-at="2025-07-08T19:08:20 IST" duration-ms="108705">
+      <class name="Contacts.CreateContactWithOrgTest">
+        <test-method is-config="true" signature="BT()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:06:31 IST" name="BT" finished-at="2025-07-08T19:06:31 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:06:31 IST" name="BC" finished-at="2025-07-08T19:06:36 IST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:06:36 IST" name="BM" finished-at="2025-07-08T19:06:54 IST" duration-ms="17981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="CreateContactWithOrgTest()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:06:54 IST" name="CreateContactWithOrgTest" finished-at="2025-07-08T19:08:13 IST" duration-ms="78516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateContactWithOrgTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:08:13 IST" name="AM" finished-at="2025-07-08T19:08:17 IST" duration-ms="4101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:08:17 IST" name="AC" finished-at="2025-07-08T19:08:20 IST" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:Contacts.CreateContactWithOrgTest@3b0090a4]" started-at="2025-07-08T19:08:20 IST" name="AT" finished-at="2025-07-08T19:08:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- Contacts.CreateContactWithOrgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

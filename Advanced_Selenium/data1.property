@@ -1,0 +1,5 @@
+Uname=admin
+Password=admin
+PName=Mobile
+Url=http://localhost:8888/index.php
+Browser=Chrome
