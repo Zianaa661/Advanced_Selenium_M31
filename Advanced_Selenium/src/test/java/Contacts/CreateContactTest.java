@@ -38,6 +38,7 @@ public class CreateContactTest extends BaseClass {
 	// WebDriver driver;
 	//im pulling---->pull1
 	//pushBack
+	//2ndPull
 //	@Test(groups="regressionTest")
 	@Test(retryAnalyzer = Generic_Utilities.RetryAnalyserImp.class)
 	public void CreateContactTest() throws Throwable {
